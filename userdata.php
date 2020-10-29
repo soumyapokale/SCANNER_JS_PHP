@@ -1,0 +1,1 @@
+INSERT INTO `id`. ( `name`, `address`, `city`, `state`, `zip`, `country`, `scanhere`, `bdate`, `email`, `addressid`) VALUES ( '$name', '$address', '$city', '$state', '$zip', '$country', '$scanhere', '$bdate', '$email', '$addressid');
